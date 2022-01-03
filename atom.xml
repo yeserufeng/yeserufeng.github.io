@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>拓识视界</title>
+  
+  <subtitle>分享知识 传递快乐</subtitle>
+  <link href="https://yeserufeng.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://yeserufeng.github.io/"/>
+  <updated>2022-01-03T00:48:27.496Z</updated>
+  <id>https://yeserufeng.github.io/</id>
+  
+  <author>
+    <name>拓识视界</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>一个播放器看尽全网视频 恒星播放器插件安装演示</title>
+    <link href="https://yeserufeng.github.io/2021/12/28/%E6%81%92%E6%98%9F%E6%92%AD%E6%94%BE%E5%99%A8%E6%8F%92%E4%BB%B6/"/>
+    <id>https://yeserufeng.github.io/2021/12/28/%E6%81%92%E6%98%9F%E6%92%AD%E6%94%BE%E5%99%A8%E6%8F%92%E4%BB%B6/</id>
+    <published>2021-12-28T11:26:06.000Z</published>
+    <updated>2022-01-03T00:48:27.496Z</updated>
+    
+    <content type="html"><![CDATA[<iframe height="650" width="1228" src="https://player.youku.com/embed/XNTgzMDM3NzUyOA==" frameborder="0" 'allowfullscreen'></iframe>]]></content>
+    
+    
+    <summary type="html">恒星播放器目前电脑端我认为最好用的播放器，支持插件安装，白嫖全网影视资源。</summary>
+    
+    
+    
+    <category term="电脑软件" scheme="https://yeserufeng.github.io/categories/%E7%94%B5%E8%84%91%E8%BD%AF%E4%BB%B6/"/>
+    
+    
+    <category term="视频" scheme="https://yeserufeng.github.io/tags/%E8%A7%86%E9%A2%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>实测两年的国产良心安全软件，简单纯净，无套路，没有之一</title>
+    <link href="https://yeserufeng.github.io/2021/12/27/%E7%81%AB%E7%BB%92/"/>
+    <id>https://yeserufeng.github.io/2021/12/27/%E7%81%AB%E7%BB%92/</id>
+    <published>2021-12-27T08:31:18.000Z</published>
+    <updated>2022-01-03T00:48:58.744Z</updated>
+    
+    <content type="html"><![CDATA[<p>国产杀毒软件林林总总，有早期的江民、瑞星、金山毒霸和现在的360等等。但是，为什么有些没落了，广大网友都心知肚明，不用我再去阐述。某些安全软件本身广告弹窗不断，各种各样自家软件推广不断，还非常贴心的设置了关闭广告的选项，这就。。。。你们懂。</p><p>今天我要推荐的是火绒安全软件5.0，正如他们所讲“专业尽职 极致低调 只为巩固安全防线”相信广大条友也用过或者听说过。我已经使用火绒安全软件两年了（大概是从2019年初开始使用的），感觉火绒就是一个低调的守护者，安静的守护着电脑的安全，没有病毒侵害，没有捆绑软件安装，没有广告弹窗，它就这样一直安安静静的待在电脑屏幕的右下角。火绒安全软件系统占用不高，中低配置的电脑一样能流畅运行。火绒安全软没有捆绑，没有自家的全家桶推广，所需插件都是根据个人需求选装，如果你觉得某个插件不需要，可以不去安装它，这些都是火绒安全软件的优势。我不喜欢人家强迫我，如果用一个安全软件都要被强迫推广，那我马上弃坑！</p><p>言归正传，下面我简单的介绍一下我的使用设置情况，一般基本使用就可以了，我们也不是专业人士，不需要设置得很复杂，只要它能守护电脑安全，拦截弹窗广告，拦截捆绑安装的软件就足够了。</p><img src="/2021/12/27/%E7%81%AB%E7%BB%92/005.png" alt="图一" style="zoom:75%;"> <p>从左至右，分别是病毒查杀，防护中心，访问控制，安全工具等，接下来我们一个一个讲。</p><p>1.病毒查杀</p><img src="/2021/12/27/%E7%81%AB%E7%BB%92/005.png" alt="图二" style="zoom:75%;"> <p>全盘查杀就是查杀电脑所有盘符，时间可能会很久；快速查杀就是只查杀C盘系统关键位置；自定义查杀就是查杀你指定的盘符。这个应该不难理解吧？</p><p>2.防护中心</p> <img src="/2021/12/27/%E7%81%AB%E7%BB%92/002.png" alt="图三" style="zoom:75%;"><p>防护中心的“病毒防护”、“系统防护”、“网络防护”都是默认开启的，不用去管它，“高级防护”设置比较复杂一般也用不到，默认关闭就可以了。如果需要高级防护定制，可以问度娘，网上应该有教程。</p><p>3.访问控制</p> <img src="/2021/12/27/%E7%81%AB%E7%BB%92/003.png" alt="图四" style="zoom:75%;"><p>这个选项可以设置密码保护，因为它有三个比较好的功能是“上网控制”、“网站内容控制”和“程序执行控制”，家里有小朋友的这个功能就很实用了，可以控制上网时段时间，控制网站访问的内容，避免孩子浏览不良网站。“程序执行控制”可以限制孩子玩单机游戏，让熊孩子欲哭无泪，只能学习。</p><p>4.安全工具</p><img src="/2021/12/27/%E7%81%AB%E7%BB%92/004.png" alt="图五" style="zoom:75%;"> <p>安全工具里面的这些系统工具大部分都是选装的，个人强烈建议安装的是“漏洞修复”、“系统修复”、“弹窗拦截”、“垃圾清理”、“文件粉碎”等这几个比较实用的插件，插件下面都有功能介绍，大家仔细看看应该不难理解。</p><p>总的来说，火绒配置并不复杂，只要你把该装的插件安装了，广告弹窗、捆绑软件等火绒都会在第一时间帮你拦截，并在右下角的图标上显示一个小红点，提示你刚才我帮你拦截啥啥啥。用火绒安全软件以来，我的电脑一直是干干净净的，从来没有过弹窗的烦恼。分享火绒安全软件只是自己的使用感受，不存在推广火绒安全软件，我这点粉丝量，人家也不屑找我，软件这东西功能强，无套路，才是真的好。</p>]]></content>
+    
+    
+    <summary type="html">国产杀毒软件林林总总,自己就是广告病毒的不在少数。但是，总有一款是良心软件。</summary>
+    
+    
+    
+    <category term="网络安全" scheme="https://yeserufeng.github.io/categories/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8/"/>
+    
+    
+    <category term="文章" scheme="https://yeserufeng.github.io/tags/%E6%96%87%E7%AB%A0/"/>
+    
+  </entry>
+  
+</feed>
