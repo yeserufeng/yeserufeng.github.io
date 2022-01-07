@@ -22,7 +22,7 @@
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/pace-js@1.2.4/themes/blue/pace-theme-minimal.css">
   <script src="https://cdn.jsdelivr.net/npm/pace-js@1.2.4/pace.min.js" integrity="sha256-gqd7YTjg/BtfqWSwsJOvndl0Bxc8gFImLEkXQT8+qj0=" crossorigin="anonymous"></script>
 
-<script class="next-config" data-name="main" type="application/json">{"hostname":"yeserufeng.github.io","root":"/","images":"/images","scheme":"Gemini","darkmode":true,"version":"8.8.2","exturl":true,"sidebar":{"position":"left","width":300,"display":"post","padding":18,"offset":12},"copycode":false,"bookmark":{"enable":false,"color":"#222","save":"auto"},"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"stickytabs":false,"motion":{"enable":false,"async":false,"transition":{"post_block":"fadeIn","post_header":"fadeInDown","post_body":"fadeInDown","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"prism":false,"i18n":{"placeholder":"搜索...","empty":"没有找到任何搜索结果：${query}","hits_time":"找到 ${hits} 个搜索结果（用时 ${time} 毫秒）","hits":"找到 ${hits} 个搜索结果"}}</script><script src="/js/config.js"></script>
+<script class="next-config" data-name="main" type="application/json">{"hostname":"yeserufeng.github.io","root":"/","images":"/images","scheme":"Pisces","darkmode":true,"version":"8.8.2","exturl":true,"sidebar":{"position":"left","width":300,"display":"post","padding":18,"offset":12},"copycode":false,"bookmark":{"enable":false,"color":"#222","save":"auto"},"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"stickytabs":false,"motion":{"enable":false,"async":false,"transition":{"post_block":"fadeIn","post_header":"fadeInDown","post_body":"fadeInDown","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"prism":false,"i18n":{"placeholder":"搜索...","empty":"没有找到任何搜索结果：${query}","hits_time":"找到 ${hits} 个搜索结果（用时 ${time} 毫秒）","hits":"找到 ${hits} 个搜索结果"}}</script><script src="/js/config.js"></script>
 <meta name="description" content="免责声明：      本站所分享的一切资源仅限用于学习和研究目的；不得将上述内容用于商业或者非法用途，否则，一切后果请用户自负。本站软件信息来自网络，版权争议与本站无关。您必须在下载软件后的24个小时之内，从您的电脑中彻底删除上述内容。如果您喜欢该程序，请支持正版软件，购买正版软件注册，您将会得到更好的正版服务。 ​       附: 根据2002年1月1日起实施，2013年1月30日修订发布的《">
 <meta property="og:type" content="website">
 <meta property="og:title" content="关于">
@@ -206,6 +206,34 @@
       </div>
 
       <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=31134621&auto=0&height=66"></iframe>
+
+<div id="days"></div>
+<script>
+function show_date_time(){
+    window.setTimeout("show_date_time()", 1000);
+    BirthDay=new Date("01/01/2022 15:13:14");
+    today=new Date();
+    timeold=(today.getTime()-BirthDay.getTime());
+    sectimeold=timeold/1000
+    secondsold=Math.floor(sectimeold);
+    msPerDay=24*60*60*1000
+    e_daysold=timeold/msPerDay
+    daysold=Math.floor(e_daysold);
+    e_hrsold=(e_daysold-daysold)*24;
+    hrsold=setzero(Math.floor(e_hrsold));
+    e_minsold=(e_hrsold-hrsold)*60;
+    minsold=setzero(Math.floor((e_hrsold-hrsold)*60));
+    seconds=setzero(Math.floor((e_minsold-minsold)*60));
+    document.getElementById('days').innerHTML="已运行 "+daysold+" 天 "+hrsold+" 小时 "+minsold+" 分 "+seconds+" 秒";
+}
+function setzero(i) {
+    if (i<10) {
+        i="0" + i
+    };
+    return i;
+}
+show_date_time();
+</script>
     </div>
   </aside>
   <div class="sidebar-dimmer"></div>
@@ -247,7 +275,7 @@
       <div class="post-body">
           <p><strong>免责声明：</strong><br>      本站所分享的一切资源仅限用于学习和研究目的；不得将上述内容用于商业或者非法用途，否则，一切后果请用户自负。本站软件信息来自网络，版权争议与本站无关。您必须在下载软件后的24个小时之内，从您的电脑中彻底删除上述内容。如果您喜欢该程序，请支持正版软件，购买正版软件注册，您将会得到更好的正版服务。</p>
 <p>​       附: 根据2002年1月1日起实施，2013年1月30日修订发布的《计算机软件保护条例》第十七条规定：为了学习和研究软件内含的设计思想和原理，通过安装、显示、传输或者存储软件等方式使用软件的，可以不经软件著作权人许可，不向其支付报酬。鉴于此，也希望大家按此说明研究软件！</p>
-<p>​       注：本站所有资源均来自网络转载，版权归原作者和公司所有，如果有侵犯到您的权益，请第一时间联系邮箱：<span class="exturl" data-url="bWFpbHRvOiYjNTE7JiM1MDsmIzU3OyYjeDM2OyYjeDM3OyYjeDMyOyYjNTA7JiM1NjsmIzQ5OyYjeDM3OyYjNjQ7JiN4NzE7JiN4NzE7JiM0NjsmIzk5OyYjeDZmOyYjMTA5Ow==">&#51;&#50;&#57;&#x36;&#x37;&#x32;&#50;&#56;&#49;&#x37;&#64;&#x71;&#x71;&#46;&#99;&#x6f;&#109;<i class="fa fa-external-link-alt"></i></span> 我们将配合处理！</p>
+<p>​       注：本站所有资源均来自网络转载，版权归原作者和公司所有，如果有侵犯到您的权益，请第一时间联系邮箱：<span class="exturl" data-url="bWFpbHRvOiYjeDMzOyYjeDMyOyYjeDM5OyYjeDM2OyYjeDM3OyYjeDMyOyYjNTA7JiN4Mzg7JiN4MzE7JiM1NTsmIzY0OyYjeDcxOyYjMTEzOyYjeDJlOyYjeDYzOyYjMTExOyYjeDZkOw==">&#x33;&#x32;&#x39;&#x36;&#x37;&#x32;&#50;&#x38;&#x31;&#55;&#64;&#x71;&#113;&#x2e;&#x63;&#111;&#x6d;<i class="fa fa-external-link-alt"></i></span> 我们将配合处理！</p>
 <p><strong>版权声明：</strong><br>       一、本站致力于为软件爱好者提供国内外软件开发技术和软件共享，着力为用户提供优资资源。<br>       二、本站提供的所有下载文件均为网络共享资源，请于下载后的24小时内删除。如需体验更多乐趣，还请支持正版。<br>       三、我站提供用户下载的所有内容均转自互联网。如有内容侵犯您的版权或其他利益的，请编辑邮件并加以说明发送到站长邮箱。站长会进行审查之后，情况属实的会在三个工作日内为您删除。</p>
 
       </div>
